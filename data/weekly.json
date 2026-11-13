@@ -1,0 +1,22 @@
+{
+  "cycle": "2026-11-09",
+  "periodStart": "2026-11-09",
+  "periodEnd": "2026-11-15",
+  "cycleMode": "weekly",
+  "cycleStartDay": 1,
+  "timezone": "Europe/London",
+  "fullUsernames": false,
+  "prizePool": 50,
+  "prizes": [
+    25,
+    15,
+    10
+  ],
+  "boardSize": 25,
+  "totalWagered": 0,
+  "playerCount": 0,
+  "cacheUpdatedAt": null,
+  "updatedAt": "2026-11-13T03:21:29.175Z",
+  "entries": [],
+  "startsOn": "2026-11-01"
+}
