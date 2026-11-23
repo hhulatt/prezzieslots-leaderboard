@@ -1,7 +1,7 @@
 {
-  "cycle": "2026-11-16",
-  "periodStart": "2026-11-16",
-  "periodEnd": "2026-11-22",
+  "cycle": "2026-11-23",
+  "periodStart": "2026-11-23",
+  "periodEnd": "2026-11-29",
   "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
@@ -13,65 +13,44 @@
     10
   ],
   "boardSize": 25,
-  "totalWagered": 1421.14,
-  "playerCount": 8,
-  "cacheUpdatedAt": "2026-11-22 05:11:44",
-  "updatedAt": "2026-11-22T05:11:44.092Z",
+  "totalWagered": 58.53,
+  "playerCount": 5,
+  "cacheUpdatedAt": "2026-11-23 03:39:45",
+  "updatedAt": "2026-11-23T03:39:45.161Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "Ma********09",
-      "hash": "62c2c55dda8ef0f4",
-      "wagered": 1129.81,
+      "masked": "Me*****d1",
+      "hash": "afad78772a9112f1",
+      "wagered": 49.35,
       "prize": 25
     },
     {
       "rank": 2,
-      "masked": "Me*****d1",
-      "hash": "afad78772a9112f1",
-      "wagered": 200.85,
+      "masked": "Uk**di",
+      "hash": "5945cce45705524e",
+      "wagered": 8.44,
       "prize": 15
     },
     {
       "rank": 3,
-      "masked": "Re***33",
-      "hash": "782f475873246c19",
-      "wagered": 60.46,
+      "masked": "Ma********09",
+      "hash": "62c2c55dda8ef0f4",
+      "wagered": 0.55,
       "prize": 10
     },
     {
       "rank": 4,
-      "masked": "wu****33",
-      "hash": "94c3f6a744596f84",
-      "wagered": 26.18,
+      "masked": "Re***33",
+      "hash": "782f475873246c19",
+      "wagered": 0.12,
       "prize": 0
     },
     {
       "rank": 5,
       "masked": "X***1",
       "hash": "13a637f4f641b342",
-      "wagered": 2.31,
-      "prize": 0
-    },
-    {
-      "rank": 6,
-      "masked": "is********ie",
-      "hash": "43fd5c9d149207ac",
-      "wagered": 1.4,
-      "prize": 0
-    },
-    {
-      "rank": 7,
-      "masked": "Bl********26",
-      "hash": "667679d4281968e7",
-      "wagered": 0.12,
-      "prize": 0
-    },
-    {
-      "rank": 8,
-      "masked": "Uk**di",
-      "hash": "5945cce45705524e",
-      "wagered": 0.01,
+      "wagered": 0.07,
       "prize": 0
     }
   ]
